@@ -1,4 +1,4 @@
-# 👋 Xin chào! Tôi là [Tên của bạn]
+# 👋 Xin chào! Tôi là Nguyễn Hoàng Kha
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Software+Engineer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
@@ -8,7 +8,7 @@
 
 ```javascript
 const developer = {
-    name: "Tên của bạn",
+    name: "Nguyễn Hoàng Kha",
     location: "Cần Thơ, Việt Nam 🇻🇳",
     role: "Full-stack Developer",
     languages: ["Vietnamese", "English"],
