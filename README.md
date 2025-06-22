@@ -17,12 +17,12 @@ const developer = {
 };
 ```
 
-- 🔭 Hiện tại tôi đang làm việc với **[Dự án hiện tại của bạn]**
-- 🌱 Đang học **[Công nghệ bạn đang học]**
+- 🔭 Hiện tại tôi đang là sinh viên IT
+- 🌱 Đang học Tay Do University
 - 👯 Muốn hợp tác trong **các dự án open source**
-- 💬 Hỏi tôi về **JavaScript, React, Node.js, Python**
-- 📫 Liên hệ: **[email@example.com]**
-- ⚡ Sự thật thú vị: **Tôi thích [sở thích của bạn]**
+- 💬 Hỏi tôi về **JavaScript, React, Node.js, Nextjs, Nestjs**
+- 📫 Liên hệ: **[nhkhacntt16@example.com]**
+- ⚡ Sự thật thú vị: **Tôi thích cầu lông**
 
 ## 🛠️ Công nghệ & Công cụ
 
@@ -38,6 +38,7 @@ const developer = {
 
 ### Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Nest.js](https://img.shields.io/badge/-Nest.js-339933?style=flat-square&logo=nest.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
@@ -59,27 +60,27 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkha03&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenhoangkha03&theme=radical" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkha03&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nguyenhoangkha03&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nguyenhoangkha03&theme=react-dark&bg_color=20232a&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 📈 Coding Activity
@@ -91,10 +92,10 @@ const developer = {
 
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT1&theme=radical" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=PROJECT1&theme=radical" alt="Project 1" />
   </a>
   <a href="https://github.com/YOUR_USERNAME/PROJECT2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT2&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=PROJECT2&theme=radical" alt="Project 2" />
   </a>
 </div>
 
@@ -129,7 +130,7 @@ const developer = {
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=nguyenhoangkha03&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -143,6 +144,6 @@ const developer = {
   
 **"Coding is not just my profession, it's my passion! 🚀"**
 
-*Made with ❤️ by [Tên của bạn]*
+*Made with ❤️ by Nguyễn Hoàng Kha*
 
 </div>
