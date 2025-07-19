@@ -1,15 +1,15 @@
-# 👋 Xin chào! Tôi là Nguyễn Hoàng Kha
+# 👋 Hi! I'm Nguyen Hoang Kha (Akaisui)
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Software+Engineer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 🚀 Về tôi
+## 🚀 About me
 
 ```javascript
 const developer = {
-    name: "Nguyễn Hoàng Kha",
-    location: "Cần Thơ, Việt Nam 🇻🇳",
+    name: "Nguyen Hoang Kha",
+    location: "Can Tho, Viet Nam",
     role: "Full-stack Developer",
     languages: ["Vietnamese", "English"],
     interests: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
@@ -17,14 +17,14 @@ const developer = {
 };
 ```
 
-- 🔭 Hiện tại tôi đang là sinh viên IT
-- 🌱 Đang học Tay Do University
-- 👯 Muốn hợp tác trong **các dự án open source**
-- 💬 Hỏi tôi về **JavaScript, React, Node.js, Nextjs, Nestjs**
-- 📫 Liên hệ: **[nhkhacntt16@gmail.com]**
-- ⚡ Sự thật thú vị: **Tôi thích cầu lông**
+- 🔭 I'm currently an IT student
+- 🌱 Studying at **Tay Do** University
+- 👯 Looking to collaborate on **open source projects**
+- 💬 Ask me about **JavaScript, React, Node.js, Nextjs, Nestjs**
+- 📫 Contact me at: **[akaisui03@gmail.com]**
+- ⚡ Fun fact: I enjoy playing **badminton**
 
-## 🛠️ Công nghệ & Công cụ
+## 🛠️ Technologies & Tools
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -88,7 +88,7 @@ const developer = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🌟 Dự án nổi bật
+## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/YOUR_USERNAME/PROJECT1">
@@ -99,12 +99,12 @@ const developer = {
   </a>
 </div>
 
-## 📝 Bài viết mới nhất
+## 📝 Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-## 🤝 Kết nối với tôi
+## 🤝 Connect with Me
 
 <div align="center">
   
@@ -144,6 +144,6 @@ const developer = {
   
 **"Coding is not just my profession, it's my passion! 🚀"**
 
-*Made with ❤️ by Nguyễn Hoàng Kha*
+*Made with ❤️ by Akaisui*
 
 </div>
