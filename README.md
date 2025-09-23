@@ -1,7 +1,7 @@
 # 👋 Hi! I'm Nguyen Hoang Kha (Akaisui)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-stack+Developer;Software+Engineer;Tech+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;AI+Enthusiast;Tech+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
 </div>
 
 ## 🚀 About me
@@ -10,7 +10,7 @@
 const developer = {
     name: "Nguyen Hoang Kha",
     location: "Can Tho, Viet Nam",
-    role: "Full-stack Developer",
+    role: "Full-stack Web Developer",
     languages: ["Vietnamese", "English"],
     interests: ["Web Development", "Mobile Apps", "AI/ML", "Open Source"],
     motto: "Code with passion, learn with curiosity! 💡"
@@ -91,11 +91,11 @@ const developer = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/nguyenhoangkha03/lms-ai-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=PROJECT1&theme=radical" alt="Project 1" />
-  </a>
   <a href="https://github.com/nguyenhoangkha03/social-network">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=PROJECT2&theme=radical" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=social-network&theme=radical" alt="Project 1" />
+  </a>
+  <a href="https://github.com/nguyenhoangkha03/lms-ai-backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nguyenhoangkha03&repo=lms-ai-backend&theme=radical" alt="Project 2" />
   </a>
 </div>
 
