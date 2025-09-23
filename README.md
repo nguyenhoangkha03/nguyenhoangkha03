@@ -63,9 +63,9 @@ const developer = {
   <img src="https://github-readme-stats.vercel.app/api?username=nguyenhoangkha03&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com/?user=nguyenhoangkha03&theme=radical" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenhoangkha03&layout=compact&theme=radical" alt="Top Languages" />
