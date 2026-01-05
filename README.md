@@ -85,14 +85,14 @@ const developer = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 <div align="center">
   [![Repo](https://img.shields.io/badge/Social--Network-blue?style=for-the-badge&logo=github)](https://github.com/nguyenhoangkha03/social-network)
   [![Repo](https://img.shields.io/badge/LMS--AI--Backend-green?style=for-the-badge&logo=github)](https://github.com/nguyenhoangkha03/he-thong-hoc-tap-ung-dung-ai)
 </div>
-
-## 📝 Latest Articles
+-->
+<!-- ## 📝 Latest Articles -->
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
