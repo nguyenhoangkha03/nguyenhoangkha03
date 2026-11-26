@@ -6,7 +6,7 @@ Building clean, scalable, and thoughtful software.
 <p align="left">
   <a href="https://nguyenhoangkha.io.vn">Portfolio</a> ·
   <a href="https://facebook.com/nguyenhoangkha03">Facebook</a> ·
-  <a href="https://www.instagram.com/akaisui03/">Instagram</a> ·
+  <a href="https://www.instagram.com/hoangkha.03/">Instagram</a> ·
   <a href="mailto:nhoangkha03@gmail.com">Email</a>
 </p>
 
